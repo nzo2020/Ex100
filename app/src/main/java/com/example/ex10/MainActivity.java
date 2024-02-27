@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.Switch;
 import android.widget.ToggleButton;
 
-import com.example.ex10.R;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -17,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     Button button2;
     ToggleButton tB;
     Switch s;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
